@@ -1,6 +1,6 @@
 <template>
     <div>
-        nested page
+        about page
     </div>
     <RouterLink to="/">
         nav to home
